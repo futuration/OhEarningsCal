@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:uE-ZM1yn8guFqkcuoNtrN
+UID:QMJggAeXf92LwQxoPPnSN
 SUMMARY:台积电 发布财报
-DTSTAMP:20250115T164507Z
+DTSTAMP:20250116T044309Z
 DTSTART;VALUE=DATE:20250116
 DESCRIPTION:财务季度：Dec/2024。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $2.16，当前市值: $1\
 	,044\,803\,140\,187。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
@@ -22,12 +22,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1gjO6ikGVjjIkvTMJntl0
+UID:bXivvDhoSCTCnOl_OMA1G
 SUMMARY:Super Micro Computer 发布财报
-DTSTAMP:20250115T164507Z
+DTSTAMP:20250116T044309Z
 DTSTART;VALUE=DATE:20250203
 DESCRIPTION:财务季度：Dec/2024。\n代码：SMCI，公司：Super Micro Computer，行业: 计算机硬件。\n预计每
-	股收益: $0.54，当前市值: $18\,199\,368\,591。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:/
+	股收益: $0.54，当前市值: $17\,877\,307\,693。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:/
 	/?symbol=SMCI \n在富途查看：https://www.futunn.com/hk/stock/SMCI-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -38,12 +38,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Dh4Y80mCpW5BNUDIUlJkI
+UID:9Xk-QFKz4P9gME4Wg9Sn-
 SUMMARY:Novo Nordisk 盘前发布财报
-DTSTAMP:20250115T164507Z
+DTSTAMP:20250116T044309Z
 DTSTART;VALUE=DATE:20250205
 DESCRIPTION:财务季度：Dec/2024。\n代码：NVO，公司：Novo Nordisk，行业: 制药。\n预计每股收益: $0.85，当
-	前市值: $377\,593\,842\,773。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NV
+	前市值: $362\,243\,774\,005。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NV
 	O \n在富途查看：https://www.futunn.com/hk/stock/NVO-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -54,12 +54,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Ltx-KDrAVKORus2pDFczm
+UID:U6dq5x-0VIaYexvRzXWHn
 SUMMARY:阿里巴巴 发布财报
-DTSTAMP:20250115T164507Z
+DTSTAMP:20250116T044309Z
 DTSTART;VALUE=DATE:20250205
 DESCRIPTION:财务季度：Dec/2024。\n代码：BABA，公司：阿里巴巴，行业: 电子商务。\n预计每股收益: $2.82，当前市值: 
-	$196\,005\,435\,669。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BABA \n
+	$198\,779\,786\,261。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BABA \n
 	在富途查看：https://www.futunn.com/hk/stock/BABA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -70,12 +70,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:jUbgUcwL6qAAf99if6pYM
+UID:lLM5vYdNI28IOjjBVSO0w
 SUMMARY:Arm 盘后发布财报
-DTSTAMP:20250115T164507Z
+DTSTAMP:20250116T044309Z
 DTSTART;VALUE=DATE:20250205
 DESCRIPTION:财务季度：Dec/2024。\n代码：ARM，公司：Arm，行业: 半导体。\n预计每股收益: $0.16，当前市值: $14
-	2\,598\,101\,223。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ARM \n在富途查
+	5\,708\,689\,409。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ARM \n在富途查
 	看：https://www.futunn.com/hk/stock/ARM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -86,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:JtHcpbUtK0d6sDIXPoGT4
+UID:ntmWUWdOE9xeNiZb5Uotr
 SUMMARY:Cloudflare 盘后发布财报
-DTSTAMP:20250115T164507Z
+DTSTAMP:20250116T044309Z
 DTSTART;VALUE=DATE:20250206
 DESCRIPTION:财务季度：Dec/2024。\n代码：NET，公司：Cloudflare，行业: 云计算。\n预计每股收益: ($0.03)，
 	当前市值: $38\,437\,718\,592。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NE
@@ -102,9 +102,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:3EyuWeFEWxj-Hcx3ofLbH
+UID:u3HL2FV9_nygMOO54pHLP
 SUMMARY:Shopify 发布财报
-DTSTAMP:20250115T164507Z
+DTSTAMP:20250116T044309Z
 DTSTART;VALUE=DATE:20250211
 DESCRIPTION:财务季度：Dec/2024。\n代码：SHOP，公司：Shopify，行业: 电子商务。\n预计每股收益: $0.35，当前市
 	值: $131\,290\,108\,059。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SHOP
@@ -118,9 +118,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:yRGYsE1rY_yd24WPjcMmo
+UID:lsZxKXGE_15y_TvIKwiSt
 SUMMARY:索尼 发布财报
-DTSTAMP:20250115T164507Z
+DTSTAMP:20250116T044309Z
 DTSTART;VALUE=DATE:20250212
 DESCRIPTION:财务季度：Dec/2024。\n代码：SONY，公司：索尼，行业: 消费电子。\n预计每股收益: $0.26，当前市值: $1
 	20\,572\,335\,084。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SONY \n在富
