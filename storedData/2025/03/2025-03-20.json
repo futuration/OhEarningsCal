@@ -97,7 +97,7 @@
       "name": "Commercial Metals Company",
       "marketCap": "$5,571,843,382",
       "fiscalQuarterEnding": "Feb/2025",
-      "epsForecast": "$0.38",
+      "epsForecast": "$0.30",
       "noOfEsts": "3"
     },
     {
@@ -543,7 +543,7 @@
     {
       "lastYearRptDt": "3/21/2024",
       "lastYearEPS": "($0.53)",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "TELA",
       "name": "TELA Bio, Inc.",
       "marketCap": "$99,258,876",
