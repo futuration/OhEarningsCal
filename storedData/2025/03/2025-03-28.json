@@ -7,7 +7,7 @@
       "time": "time-not-supplied",
       "symbol": "TLK",
       "name": "PT Telekomunikasi Indonesia, Tbk",
-      "marketCap": "$14,730,551,608",
+      "marketCap": "$15,057,456,923",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
       "noOfEsts": "N/A"
@@ -90,6 +90,17 @@
       "noOfEsts": "1"
     },
     {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$0.16",
+      "time": "time-not-supplied",
+      "symbol": "PVL",
+      "name": "Permianville Royalty Trust",
+      "marketCap": "$51,150,000",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "",
+      "noOfEsts": "1"
+    },
+    {
       "lastYearRptDt": "3/14/2024",
       "lastYearEPS": "($4.46)",
       "time": "time-pre-market",
@@ -99,17 +110,6 @@
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
       "noOfEsts": "N/A"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.16",
-      "time": "time-not-supplied",
-      "symbol": "PVL",
-      "name": "Permianville Royalty Trust",
-      "marketCap": "$49,830,000",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "",
-      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
