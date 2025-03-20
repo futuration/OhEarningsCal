@@ -75,7 +75,7 @@
       "name": "Atour Lifestyle Holdings Limited",
       "marketCap": "$4,254,444,697",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.29",
+      "epsForecast": "$0.30",
       "noOfEsts": "1"
     },
     {
@@ -154,17 +154,6 @@
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
       "noOfEsts": "N/A"
-    },
-    {
-      "lastYearRptDt": "3/26/2024",
-      "lastYearEPS": "($0.06)",
-      "time": "time-not-supplied",
-      "symbol": "PPTA",
-      "name": "Perpetua Resources Corp.",
-      "marketCap": "$694,778,203",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.09)",
-      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -317,7 +306,7 @@
       "name": "2seventy bio, Inc.",
       "marketCap": "$255,878,563",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.20)",
+      "epsForecast": "($0.23)",
       "noOfEsts": "2"
     },
     {
@@ -640,17 +629,6 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "3/26/2024",
-      "lastYearEPS": "($0.56)",
-      "time": "time-not-supplied",
-      "symbol": "BCAB",
-      "name": "BioAtla, Inc.",
-      "marketCap": "$17,162,678",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.33)",
-      "noOfEsts": "1"
-    },
-    {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "($1.23)",
       "time": "time-pre-market",
@@ -737,6 +715,17 @@
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($4.20)",
       "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "4/03/2024",
+      "lastYearEPS": "($0.80)",
+      "time": "time-pre-market",
+      "symbol": "PHGE",
+      "name": "BiomX Inc.",
+      "marketCap": "$10,742,372",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "($1.65)",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -835,17 +824,6 @@
       "marketCap": "$5,323,611",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "3/05/2024",
-      "lastYearEPS": "($0.70)",
-      "time": "time-not-supplied",
-      "symbol": "PSTV",
-      "name": "PLUS THERAPEUTICS, Inc.",
-      "marketCap": "$3,290,743",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.43)",
       "noOfEsts": "1"
     },
     {

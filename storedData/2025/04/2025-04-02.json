@@ -26,7 +26,7 @@
     {
       "lastYearRptDt": "4/03/2024",
       "lastYearEPS": "$0.02",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "BB",
       "name": "BlackBerry Limited",
       "marketCap": "$2,608,881,912",
@@ -43,7 +43,7 @@
       "marketCap": "$1,097,380,373",
       "fiscalQuarterEnding": "Feb/2025",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "4/09/2024",
@@ -66,6 +66,17 @@
       "fiscalQuarterEnding": "Feb/2025",
       "epsForecast": "$0.25",
       "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "4/04/2024",
+      "lastYearEPS": "($0.16)",
+      "time": "time-pre-market",
+      "symbol": "ANGO",
+      "name": "AngioDynamics, Inc.",
+      "marketCap": "$381,996,293",
+      "fiscalQuarterEnding": "Feb/2025",
+      "epsForecast": "($0.13)",
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "4/03/2024",
@@ -109,7 +120,7 @@
       "marketCap": "$90,081,436",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "4/03/2024",
@@ -134,17 +145,6 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "4/03/2024",
-      "lastYearEPS": "($0.20)",
-      "time": "time-not-supplied",
-      "symbol": "SPWH",
-      "name": "Sportsman's Warehouse Holdings, Inc.",
-      "marketCap": "$36,188,473",
-      "fiscalQuarterEnding": "Jan/2025",
-      "epsForecast": "($0.08)",
-      "noOfEsts": "2"
-    },
-    {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "($0.11)",
       "time": "time-not-supplied",
@@ -153,18 +153,7 @@
       "marketCap": "$13,846,537",
       "fiscalQuarterEnding": "Feb/2025",
       "epsForecast": "",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "4/03/2024",
-      "lastYearEPS": "($0.80)",
-      "time": "time-not-supplied",
-      "symbol": "PHGE",
-      "name": "BiomX Inc.",
-      "marketCap": "$10,742,372",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($1.65)",
-      "noOfEsts": "1"
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "N/A",
@@ -175,7 +164,7 @@
       "marketCap": "$10,374,690",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "N/A",
@@ -186,7 +175,7 @@
       "marketCap": "$9,405,622",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "N/A",
@@ -197,7 +186,7 @@
       "marketCap": "$2,010,732",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "3"
     }
   ]
 }
