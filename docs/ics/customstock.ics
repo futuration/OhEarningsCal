@@ -6,12 +6,12 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:QUfJjbjMgo36elFEn9SFU
+UID:NvkG3_rWbJWKbOXxBP4ub
 SUMMARY:台积电 盘前发布财报
-DTSTAMP:20260706T084850Z
+DTSTAMP:20260706T182843Z
 DTSTART;VALUE=DATE:20260716
 DESCRIPTION:财务季度：Jun/2026。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $3.77，当前市值: $2\
-	,304\,001\,073\,504。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
+	,251\,772\,969\,121。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
 	富途查看：https://www.futunn.com/hk/stock/TSM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -22,12 +22,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:i2M_-D1o3c5VDhZryOSMw
+UID:KmzqzHonkDCIa0cq8seSH
 SUMMARY:Arm 发布财报
-DTSTAMP:20260706T084850Z
+DTSTAMP:20260706T182843Z
 DTSTART;VALUE=DATE:20260729
-DESCRIPTION:财务季度：Jun/2026。\n代码：ARM，公司：Arm，行业: 半导体。\n预计每股收益: $0.18，当前市值: $35
-	9\,086\,725\,892。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ARM \n在富途查
+DESCRIPTION:财务季度：Jun/2026。\n代码：ARM，公司：Arm，行业: 半导体。\n预计每股收益: $0.18，当前市值: $33
+	5\,475\,339\,851。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ARM \n在富途查
 	看：https://www.futunn.com/hk/stock/ARM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -38,12 +38,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:EbT71RsDPF79HVfHnJGJv
+UID:svt827isNjWwTljGg0fs8
 SUMMARY:Cloudflare 发布财报
-DTSTAMP:20260706T084850Z
+DTSTAMP:20260706T182843Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：NET，公司：Cloudflare，行业: 云计算。\n预计每股收益: ($0.03)，
-	当前市值: $87\,062\,278\,442。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NE
+	当前市值: $85\,683\,759\,965。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NE
 	T \n在富途查看：https://www.futunn.com/hk/stock/NET-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -54,12 +54,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1kEGNHj3PDAYdmy1h4Ik7
+UID:2tMMp7W2nsRlFTuSvV-IX
 SUMMARY:Coinbase 发布财报
-DTSTAMP:20260706T084850Z
+DTSTAMP:20260706T182843Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：COIN，公司：Coinbase，行业: 金融科技。\n预计每股收益: $0.31，当前
-	市值: $41\,945\,585\,793。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=COIN
+	市值: $43\,589\,271\,145。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=COIN
 	 \n在富途查看：https://www.futunn.com/hk/stock/COIN-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -70,12 +70,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:UIQzGU_F1yD8jaqr0utOJ
+UID:VXHAbj1yIDTfQBU4K3jA7
 SUMMARY:Super Micro Computer 发布财报
-DTSTAMP:20260706T084850Z
+DTSTAMP:20260706T182843Z
 DTSTART;VALUE=DATE:20260804
 DESCRIPTION:财务季度：Jun/2026。\n代码：SMCI，公司：Super Micro Computer，行业: 计算机硬件。\n预计每
-	股收益: $0.59，当前市值: $16\,629\,221\,027。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:/
+	股收益: $0.59，当前市值: $16\,370\,611\,080。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:/
 	/?symbol=SMCI \n在富途查看：https://www.futunn.com/hk/stock/SMCI-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
